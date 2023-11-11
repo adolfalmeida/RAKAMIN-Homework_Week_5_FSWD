@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.nav {
+  background-color: #f1f3f4;
+  border: none;
+}
+
+.card {
+  background-color: #f1f3f4;
+}
+
+#applicantslist thead tr th {
+  background-color: #f1f3f4;
+  color: #0d6efd;
+}
